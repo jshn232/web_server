@@ -1,6 +1,6 @@
 # web_server
 
-## 1.部署 proto
+## 1.部署  proto
 将jshn232文件夹 复制到$GOPATH/src/目录下
 ```bash
 cp -rf jshn232/ $GOPATH/src/
